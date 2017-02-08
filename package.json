@@ -1,0 +1,21 @@
+{
+  "name": "gulp-paginate",
+  "version": "1.0.0",
+  "description": "A Gulp plugin for collating multiple files into one or more pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "page",
+    "paginate",
+    "collation"
+  ],
+  "author": "Katie Fenn",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.3",
+    "vinyl": "^2.0.1"
+  }
+}
